@@ -3,7 +3,6 @@
 // 送信データのチェック
 var_dump($_POST);
 
-// exit();
 
 // 関数ファイルの読み込み
 include('functions.php');
